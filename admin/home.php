@@ -169,7 +169,7 @@
               <div class="chart">
                 <br>
                 <div id="legend" class="text-center"></div>
-                <canvas id="barChart" style="height:120px"></canvas>
+                <canvas id="barChart" style="height:200px"></canvas>
               </div>
             </div>
           </div>
